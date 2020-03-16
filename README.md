@@ -7,12 +7,12 @@ O aplicativo foi desenvolvido e testado apenas para Android. Caso queira utiliza
 serão necessárias.
 
 ### Bibliotecas/ferramentas utilizadas
-React navigation - https://github.com/react-navigation/react-navigation
-Reactotron - https://github.com/infinitered/reactotron
-Redux e Redux Saga - https://redux.js.org/ 
-Styled components - https://styled-components.com/
-Axios - https://github.com/axios/axios
-React Native Vector icons - https://github.com/oblador/react-native-vector-icons
+- React navigation - https://github.com/react-navigation/react-navigation
+- Reactotron - https://github.com/infinitered/reactotron
+- Redux e Redux Saga - https://redux.js.org/ 
+- Styled components - https://styled-components.com/
+- Axios - https://github.com/axios/axios
+- React Native Vector icons - https://github.com/oblador/react-native-vector-icons
 
 ### Instalação
 
