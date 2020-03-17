@@ -26,7 +26,6 @@ class Home extends Component {
   };
 
   async componentDidMount() {
-    console.log('asdasdas');
     const response = await api.get('products');
 
     const data = response.data.map(product => ({
